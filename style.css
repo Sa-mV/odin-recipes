@@ -1,6 +1,23 @@
+body {
+    line-height: 2;
+}
 .swedish-meatballs,
 .cheesecake,
 .lasagna {
     height: auto;
     width: 200px;
+}
+.header1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.link-list li a {
+    font-size: 18px;
+    color: green;
+    text-decoration: none;
+}
+.link-list li a:hover {
+text-decoration: underline;
 }
